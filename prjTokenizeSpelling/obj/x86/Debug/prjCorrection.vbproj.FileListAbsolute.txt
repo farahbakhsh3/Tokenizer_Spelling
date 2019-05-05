@@ -1,0 +1,12 @@
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize\prjCorrection\bin\Debug\prjCorrection.exe
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize\prjCorrection\bin\Debug\prjCorrection.pdb
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize\prjCorrection\bin\Debug\prjCorrection.xml
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize\prjCorrection\obj\x86\Debug\prjCorrection.Form1.resources
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize\prjCorrection\obj\x86\Debug\prjCorrection.Resources.resources
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize\prjCorrection\obj\x86\Debug\prjCorrection.vbproj.GenerateResource.Cache
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize\prjCorrection\obj\x86\Debug\prjCorrection.exe
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize\prjCorrection\obj\x86\Debug\prjCorrection.xml
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize\prjCorrection\obj\x86\Debug\prjCorrection.pdb
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjCorrection.exe
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjCorrection.xml
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjCorrection.pdb

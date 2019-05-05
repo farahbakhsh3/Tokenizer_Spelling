@@ -1,0 +1,39 @@
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\bin\Debug\prjTokenizeSpelling.exe
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\bin\Debug\prjTokenizeSpelling.pdb
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\bin\Debug\prjTokenizeSpelling.xml
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjTokenizeSpelling.frmSpelling.resources
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjTokenizeSpelling.frmStartup.resources
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjTokenizeSpelling.frmTokenize.resources
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjTokenizeSpelling.Resources.resources
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjTokenizeSpelling.vbproj.GenerateResource.Cache
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjTokenizeSpelling.exe
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjTokenizeSpelling.xml
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjCorrection\obj\x86\Debug\prjTokenizeSpelling.pdb
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.exe
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.xml
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.pdb
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\bin\Debug\prjTokenizeSpelling.exe
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\bin\Debug\prjTokenizeSpelling.pdb
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\bin\Debug\prjTokenizeSpelling.xml
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.frmSpelling.resources
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.frmStartup.resources
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.frmTokenize.resources
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.Resources.resources
+C:\Users\PCPC\Desktop\prjTokenize\prjTokenize - Copy\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.vbproj.GenerateResource.Cache
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\bin\Debug\prjTokenizeSpelling.exe
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\bin\Debug\prjTokenizeSpelling.pdb
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\bin\Debug\prjTokenizeSpelling.xml
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.frmSpelling.resources
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.frmStartup.resources
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.frmTokenize.resources
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.Resources.resources
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.vbproj.GenerateResource.Cache
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.exe
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.xml
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.pdb
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\PCPC\Desktop\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.vbprojResolveAssemblyReference.cache
+E:\PCPC-Desk\NLP Projects\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.exe
+E:\PCPC-Desk\NLP Projects\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.xml
+E:\PCPC-Desk\NLP Projects\prjTokenizeSpelling\prjTokenizeSpelling\obj\x86\Debug\prjTokenizeSpelling.pdb
